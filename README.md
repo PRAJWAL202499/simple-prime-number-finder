@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Prime Number Checker</title>
+	
 </head>
 <body>
 	<h1>Prime Number Checker</h1>
@@ -14,16 +14,16 @@
 	</ul>
 	<h2>Example Output</h2>
 	<pre>
-Enter a number (-1 to exit): 25
+Enter a number: 25
 Given number 25 is not prime
 
-Enter a number (-1 to exit): 23
+Enter a number: 23
 Given number 23 is prime
 	</pre>
 	<h2>Note</h2>
 	<p>To run this program, use a Java compiler. Make sure the class name matches the file name.</p>
 	<h2>Author</h2>
-	<p>[Your Name]</p>
+	<p>Prajwal GS</p>
 	<h2>License</h2>
 	<p>MIT License</p>
 </body>
